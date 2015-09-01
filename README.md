@@ -63,8 +63,8 @@ export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home
 
 ```sh  
     bin/start-service.sh or bin/service-daemon.sh start 
-```
-    and then open the address http://localhost:8080, you will see the hello world. 
+```  
+and then open the address http://localhost:8080, you will see the hello world. 
 
 *   Shutdown the Transaction
 
