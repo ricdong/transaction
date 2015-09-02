@@ -117,3 +117,5 @@ If the transaction successfully you will get the response with `OK`, otherwise y
 
 ### Dump the threads information of current process 
 
+`http://localhost:8080/jstack` will dump all threads status of transaction process. 
+
