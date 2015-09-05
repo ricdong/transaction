@@ -115,7 +115,6 @@ public class TransferServer implements Runnable {
 
 	public static void main(String args[])throws Exception {
 		startServer(args); 
-		LOG.info("ccc"); 
 	}
 
 }
